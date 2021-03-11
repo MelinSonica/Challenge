@@ -1,0 +1,27 @@
+
+*{
+   font-family: 'Playfair Display', serif;
+  }
+
+  .centrado {
+
+   background-color: black;
+   color: white;
+   text-align:center;
+   justify-content: center;
+   align-items:center;
+   display: inline-flexbox;
+   
+    }
+
+    #board {
+      margin: 0 auto;
+    }
+    
+    #board {
+      width: 40vw;
+      height: 40vw;
+      max-width: 70vh;
+      max-height: 70vh;
+    }
+
